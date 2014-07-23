@@ -1,1 +1,1 @@
- /tmp/iworked
+touch /tmp/iworked
